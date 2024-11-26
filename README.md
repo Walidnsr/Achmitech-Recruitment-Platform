@@ -19,6 +19,14 @@ RecruitmentPlatform offers a wide array of features designed to facilitate the r
    - A welcoming and intuitive home page.
    - Seamless authentication process for new and returning users, including sign-up and login functionalities.
 
+<br><p align="center">
+  <img src="Screenshots/Acceuil.png" alt="Accueil" width="45%">
+  <img src="Screenshots/Signup.png" alt="Signup" width="45%">
+  <img src="Screenshots/Login.png" alt="Login" width="45%">
+  
+</p>
+
+
 2. **Client and Candidate Sections**:
    - Separate interfaces tailored to the needs of **clients** and **candidates**.
 
@@ -34,11 +42,28 @@ RecruitmentPlatform offers a wide array of features designed to facilitate the r
      - Manage their profiles.
      - Message recruiters directly.
 
+
+<br><p align="center">
+  <img src="Screenshots/Offers.png" alt="Offers" width="45%">
+  <img src="Screenshots/Applications.png" alt="Applications" width="45%">
+  
+</p>
+
 3. **Profile Management**:
    - Both clients and candidates can create and maintain detailed profiles, which can include portfolio items, company information, and personal achievements.
 
+<br><p align="center">
+  <img src="Screenshots/Profil.png" alt="Profil" width="45%">
+  
+</p>
+
 4. **Messaging Functionalities**:
    - An integrated messaging system to streamline communication between recruiters and candidates, enabling direct messaging to discuss opportunities and next steps.
+
+<br><p align="center">
+  <img src="Screenshots/Conversations.png" alt="Conversations" width="45%">
+  
+</p>
 
 ## Installation Instructions
 To set up the project locally, follow these steps:
